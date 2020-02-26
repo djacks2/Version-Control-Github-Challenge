@@ -1,0 +1,8 @@
+1. Explain what the terminal is in your own words.
+    Terminal is  a place where you can put commands for code and see changes. 
+
+2. What is the major difference between Git and Github?
+    Git is  a local tool installed to help server code and make coommands, while GitHub is a online server that people who use Git upload their projects
+
+3. Why do we use Github?
+    Github is used for mutiple users to make changes to one code without having to send them directly. You can post and pulll code and then verify it with the master to make sure the new code is correct.
